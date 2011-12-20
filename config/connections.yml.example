@@ -1,0 +1,8 @@
+my_application_name_here:
+  gmail:
+    username: 'something@gmail.com'
+    password: 'some_secret'
+
+  campfire:
+    api_key: 'find me in https://myaccount.campfirenow.com/member/edit'
+    room: 'https://myaccount.campfirenow.com/room/666'
